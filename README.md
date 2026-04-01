@@ -1,4 +1,5 @@
 Modern Frontend Portfolio Template
+<img width="1827" height="975" alt="image" src="https://github.com/user-attachments/assets/18f3bdc1-728c-429a-882d-d5c027efad12" />
 
 A responsive and customizable developer portfolio template built with React and Tailwind CSS.
 Designed with a focus on clarity, structure, and scalable frontend architecture.
